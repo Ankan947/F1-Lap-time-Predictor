@@ -27,5 +27,8 @@ How to run this locally:
 5.Run the python file.
 Tech Stack Used:
 Python, Pandas for data cleaning, Scikit-Learn for ML models, and Matplotlib for graphing the degradation curve.
+Click here to view the full Project Presentation & Cover Page 
+[ilovepdf_merged (1).pdf](https://github.com/user-attachments/files/32147992/ilovepdf_merged.1.pdf)
+
 
 
